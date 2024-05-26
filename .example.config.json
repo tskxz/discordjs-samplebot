@@ -1,3 +1,5 @@
 {
-    "token":"my secret token"
+    "token":"mytoken",
+    "clientId": "myclientid",
+    "guildId": "serverid"
 }
