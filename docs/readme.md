@@ -66,6 +66,8 @@ Inviting to your server
 ![image](/docs/setup02.png)
 ![image](/docs/setup03.png)
 
+Copy your token bot
+![image](/docs/gettokenbot.png)
 
 Create config.json
 ```json
@@ -87,3 +89,5 @@ client.once(Events.ClientReady, readyClient => {
 
 client.login(token);
 ```
+
+Create a new folder named commands and a subfolder named utility
